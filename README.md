@@ -2,5 +2,5 @@
 
 
 
-![SwitchPreference.](https://i.stack.imgur.com/x60Ef.png)
+![SwitchPreference.](https://i.stack.imgur.com/9c1D7.png)
 
