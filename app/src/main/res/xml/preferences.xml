@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="audio_switch"
+        android:title="@string/pref_audio"
+        android:defaultValue="false" />
+</PreferenceScreen>
